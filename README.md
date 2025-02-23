@@ -9,7 +9,7 @@ Acoustic-to-Articulatory Speech Inversion (AAI) Model
 
 
 This model extracts articulatory features from speech for subsequent speech tasks.  
-For more information, please refer to the paper: <a href="https://dl.acm.org/doi/10.1145/3664647.3681097" target="_blank">Paper</a>
+For more information, please refer to the paper: <a href="https://dl.acm.org/doi/10.1145/3664647.3681097" target="_blank">Paper</a> and the
 Project: <a href="https://github.com/Zhongxu-Wang/ArtSpeech?tab=readme-ov-file" target="_blank">ArtSpeech</a>
 
 ## Inference (Extracting Articulatory Features):
