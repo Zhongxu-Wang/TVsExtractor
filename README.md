@@ -1,10 +1,10 @@
 # Acoustic-to-Articulatory Speech Inversion (AAI) Model
 
-This model extracts physiological features from speech for subsequent speech tasks.  
+This model extracts Articulatory features from speech for subsequent speech tasks.  
 For more information, please refer to the paper: [https://dl.acm.org/doi/10.1145/3664647.3681097](https://dl.acm.org/doi/10.1145/3664647.3681097)  
 Project: [https://github.com/Zhongxu-Wang/ArtSpeech?tab=readme-ov-file](https://github.com/Zhongxu-Wang/ArtSpeech?tab=readme-ov-file)
 
-## Inference (Extracting Physiological Features):
+## Inference (Extracting Articulatory Features):
 
 1. Download the pre-trained model: XXX, and place it in the `output/ckpt` directory.
 2. Prepare your data files directory. For the specific format, refer to: `LibriTTS_dataset.txt` in the project.
