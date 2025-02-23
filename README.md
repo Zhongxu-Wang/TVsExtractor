@@ -4,8 +4,7 @@
 Acoustic-to-Articulatory Speech Inversion (AAI) Model
 </b>
 </h1>
-<h4>
-<b>
+</div>
 
 
 
