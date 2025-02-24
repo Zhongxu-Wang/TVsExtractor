@@ -21,7 +21,7 @@ Project: <a href="https://github.com/Zhongxu-Wang/ArtSpeech?tab=readme-ov-file" 
 
 ## Training:
 
-The model is trained using the HPRC dataset and <a href="https://github.com/NVIDIA/CleanUNet" target="_blank">CleanUNet</a> for denoising.
+The model is trained using the HPRC dataset and we have preprocessed the speech data in the HPRC dataset by applying <a href="https://github.com/NVIDIA/CleanUNet" target="_blank">CleanUNet</a> for denoising.
 
 1. Download the <a href="https://drive.google.com/file/d/1iS99bw2p97bWTo_frf2wi1LUiX3F5ieJ/view?usp=drive_link" target="_blank">processed dataset</a>.
 2. Run `python train.py`.
